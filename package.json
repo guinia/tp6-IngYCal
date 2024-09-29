@@ -1,0 +1,19 @@
+{
+  "name": "cy10",
+  "version": "1.0.0",
+  "description": "testing automatizado",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "javascript"
+  ],
+  "author": "giova",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.2"
+  }
+}
